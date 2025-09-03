@@ -1,2 +1,2 @@
 # myfirst-demo
-this is my first repo in github
+i did my first changes in demo i addded this stuff
